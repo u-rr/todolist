@@ -5,12 +5,12 @@
                 <v-icon>arrow_back</v-icon>
             </router-link>
             <v-toolbar-title class="white--text">
-                My Todo
+                Todoを入力してね！
             </v-toolbar-title>
         </v-toolbar>
         <v-text-field v-model="newTodo" placehlder="Input here..."></v-text-field>
         <v-btn dark color="indigo" v-on:click="addTodo()" class="white--text">
-            ADD
+            送信
         </v-btn>
     </div>
 </template>

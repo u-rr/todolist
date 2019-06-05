@@ -2,7 +2,7 @@
     <div>
         <v-toolbar dark color="pink lighten-3">
             <v-toolbar-title class="white--text">
-                My Todo
+                ゆーるるのTodoリスト
             </v-toolbar-title>
         </v-toolbar>
         <v-list>
